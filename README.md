@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦾 About Me:
 👋  Hello! I am a passionate 25-year-old Argentine programmer, always looking for new challenges and opportunities to grow. Since I discovered the world of programming, I knew I wanted to be part of innovative projects that make a difference.<br><br>💻  I love to dive into new technologies and constantly learn. Curiosity is my driving force, and I strive to stay up to date with development trends and best practices.<br><br>🌱  My goal is to collaborate on challenging projects where I can contribute my skills and also learn from other professionals. I am willing to take on roles in both project development and management, always with a proactive and results-oriented attitude.<br><br>🚀  If you are looking for an enthusiastic collaborator with a fresh and creative approach, I am here to contribute and grow together! Feel free to contact me to discuss ideas, collaborations or just to chat about technology.<br><br>
 
 
