@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Desktop apps using Java**
 
-- 👨‍💻 My key projects are available at [my website](https://https://matiasbordaportfolio.netlify.app//)
+- 👨‍💻 My key projects are available at [my website](https://matiasbordaportfolio.netlify.app/)
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 
