@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Webs with apis using Javascript
 
-- 🌱 I’m currently learning about **Desktop apps using Java**
+- 🌱 I’m currently learning about **Web apps using Python**
 
 - 👨‍💻 My key projects are available at [my website](https://matiasbordaportfolio.netlify.app/)
 
