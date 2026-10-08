@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning about **Web apps using Typescript**
 
-- 👨‍💻 My key projects are available at [my website](https://portfolio-web-matias-borda.vercel.app/)
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 
 
