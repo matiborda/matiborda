@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Matias <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc214bXJncHp0cDE0OHRzZXBjYXo0dHVwd2Yxdjk0eGhuODlhbmNpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjxSbh6KnqSyRa1zk/giphy.webp" width = 20px ></h1>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 
-- 🌱 I’m currently working about **Web apps using Typescript**
+
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 
